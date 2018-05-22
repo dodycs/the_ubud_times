@@ -48,6 +48,9 @@ img {
 .left-text{
    text-align: left;
 }
+.right-text{
+   text-align: right;
+}
 /* font */
 .font-size-0{ font-size: 5px;}
 .font-size-1{ font-size: 10px; }
